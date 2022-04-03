@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fons Joc bru.jpg-f76762e79727d2d27f80e71b21d0da30.stex"
+path="res://.import/flag animation.png-44b28c44867dae39585c1378305dfe1b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Fons Joc bru.jpg"
-dest_files=[ "res://.import/Fons Joc bru.jpg-f76762e79727d2d27f80e71b21d0da30.stex" ]
+source_file="res://Sprites/Flag/flag animation.png"
+dest_files=[ "res://.import/flag animation.png-44b28c44867dae39585c1378305dfe1b.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0
