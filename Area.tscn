@@ -16,25 +16,25 @@ margin_bottom = 280.0
 color = Color( 0, 0, 0, 1 )
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( -159, 35 )
+position = Vector2( -158, 35 )
 rotation = -1.5708
 scale = Vector2( 0.5, 0.5 )
 texture = ExtResource( 2 )
 
 [node name="Sprite2" type="Sprite" parent="."]
-position = Vector2( -159, 245 )
+position = Vector2( -158, 245 )
 rotation = -1.5708
 scale = Vector2( 0.5, 0.5 )
 texture = ExtResource( 2 )
 
 [node name="Sprite3" type="Sprite" parent="."]
-position = Vector2( -159, 175 )
+position = Vector2( -158, 175 )
 rotation = -1.5708
 scale = Vector2( 0.5, 0.5 )
 texture = ExtResource( 2 )
 
 [node name="Sprite4" type="Sprite" parent="."]
-position = Vector2( -159, 105 )
+position = Vector2( -158, 105 )
 rotation = -1.5708
 scale = Vector2( 0.5, 0.5 )
 texture = ExtResource( 2 )
