@@ -100,4 +100,17 @@ text = "JUMP: Space
 LEFT: A
 RIGHT: D"
 
+[node name="Label2" type="Label" parent="."]
+margin_left = 792.0
+margin_top = 25.0
+margin_right = 1003.0
+margin_bottom = 103.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "Scape from the spikes
+and reach the victory flag,
+don't fall down!"
+align = 1
+valign = 1
+
 [connection signal="pressed" from="TextureButton" to="." method="_on_TextureButton_pressed"]
